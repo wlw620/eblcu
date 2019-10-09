@@ -1,0 +1,10 @@
+{
+  "name": "@eblcu/cli",
+  "version": "0.0.1",
+  "description": "北语大前端CLI",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.6.3"
+  }
+}
